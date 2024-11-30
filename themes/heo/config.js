@@ -1,5 +1,5 @@
 const CONFIG = {
-  HEO_HOME_POST_TWO_COLS: true, // 首页博客两列显示，若为false则只显示一列
+  HEO_HOME_POST_TWO_COLS: false, // 首页博客两列显示，若为false则只显示一列
   HEO_LOADING_COVER: true, // 页面加载的遮罩动画
 
   HEO_HOME_BANNER_ENABLE: true,
@@ -55,34 +55,34 @@ const CONFIG = {
     {
       title_1: 'meguru_ciallo',
       img_1: '/images/heo/meguru_ciallo.png',
-      color_1: '#ffffff',
+      color_1: '#eaa00b',
       title_2: 'meguru_good',
       img_2: '/images/heo/meguru_good.png',
-      color_2: '#ffffff'
+      color_2: '#eaa00b'
     },
     {
       title_1: 'meguru_huaa',
       img_1: '/images/heo/meguru_huaa.png',
-      color_1: '#ffffff',
+      color_1: '#eaa00b',
       title_2: 'meguru_huhu',
       img_2: '/images/heo/meguru_huhu.png',
-      color_2: '#ffffff'
+      color_2: '#eaa00b'
     },
     {
       title_1: 'meguru_iii',
       img_1: '/images/heo/meguru_iii.png',
-      color_1: '#ffffff',
+      color_1: '#eaa00b',
       title_2: 'meguru_jii',
       img_2: '/images/heo/meguru_jii.png',
-      color_2: '#ffffff'
+      color_2: '#eaa00b'
     },
     {
       title_1: 'meguru_ninja',
       img_1: '/images/heo/meguru_ninja.png',
-      color_1: '#ffffff',
+      color_1: '#eaa00b',
       title_2: 'meguru_redface',
       img_2: '/images/heo/meguru_redface.png',
-      color_2: '#ffffff'
+      color_2: '#eaa00b'
     },
   ],
 
